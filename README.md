@@ -2,7 +2,7 @@
 
 This repository contains a machine learning project for predicting house prices based on various features. The project is implemented using Python in Google Colab.
 
-## 📌 Project Overview
+## 📌 Overview
 
 The objective of this project is to build a predictive model that estimates house prices based on input features such as location, size, number of bedrooms, and other relevant attributes.
 
